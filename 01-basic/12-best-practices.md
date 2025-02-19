@@ -84,9 +84,7 @@ from meu_modulo import funcao
 # Indentação e quebra de linhas
 def funcao_longa():
     if condicao_complexa:
-        resultado = (valor1 + 
-                    valor2 + 
-                    valor3)
+        resultado = (valor1 + valor2 + valor3)
         return resultado
 ```
 
