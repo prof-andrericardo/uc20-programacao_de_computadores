@@ -76,7 +76,7 @@ III. Snake_case deve ser usado para todas as variáveis
 IV. Docstrings são ignoradas pelo interpretador Python
 
 Assinale a alternativa que indica se as sentenças são verdadeiras (V) ou falsas (F):
-[ ] F V V V
-[ ] b) V F V F
-[ ] c) F V V F
-[ ] d) V V F V
+- [ ] F V V V
+- [ ] V F V F
+- [ ] F V V F
+- [ ] V V F V
