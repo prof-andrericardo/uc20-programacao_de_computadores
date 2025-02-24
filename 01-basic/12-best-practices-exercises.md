@@ -45,10 +45,10 @@ Qual é o principal problema com este código?
 ## Questões Verdadeiro ou Falso
 
 7. Analise as afirmações:
-   ( ) Type hints são obrigatórios em Python 3
-   ( ) Docstrings devem ser usadas em todas as funções
-   ( ) Snake_case é o padrão para nomes de classes
-   ( ) Comentários devem explicar o "por quê" e não o "o quê"
+ - ( ) Type hints são obrigatórios em Python 3
+ - ( ) Docstrings devem ser usadas em todas as funções
+ - ( ) Snake_case é o padrão para nomes de classes
+ - ( ) Comentários devem explicar o "por quê" e não o "o quê"
 
 ## Questões de Associação de Colunas
 
@@ -61,10 +61,10 @@ Coluna A (Prática):
 4. Docstrings
 
 Coluna B (Justificativa):
-( ) Documenta a função de forma padronizada
-( ) Garante liberação adequada de recursos
-( ) Torna o código mais conciso e legível
-( ) Facilita a detecção de erros de tipo
+- ( ) Documenta a função de forma padronizada
+- ( ) Garante liberação adequada de recursos
+- ( ) Torna o código mais conciso e legível
+- ( ) Facilita a detecção de erros de tipo
 
 ## Questão de Análise de Sentenças
 
@@ -76,7 +76,7 @@ III. Snake_case deve ser usado para todas as variáveis
 IV. Docstrings são ignoradas pelo interpretador Python
 
 Assinale a alternativa que indica se as sentenças são verdadeiras (V) ou falsas (F):
-a) F V V V
-b) V F V F
-c) F V V F
-d) V V F V
+[ ] F V V V
+[ ] b) V F V F
+[ ] c) F V V F
+[ ] d) V V F V
