@@ -8,14 +8,14 @@ Este projeto tem como objetivo fornecer **conteúdo didático completo e atualiz
 
 ## 📚 Estrutura do Repositório
 
-| Diretório               | Descrição                                                                 |
-|------------------------|---------------------------------------------------------------------------|
-| `docs/`                | Documentação teórica dos capítulos organizados e explicados em Markdown. |
-| `src/`                 | Códigos-fonte: exemplos, exercícios, desafios e gabaritos por capítulo.  |
-| `atividades/`          | Listas de exercícios e avaliações divididas por trimestre.               |
-| `materiais-de-apoio/`  | Guias, imagens, vídeos e links úteis.                                     |
-| `scripts/`             | Scripts auxiliares para instalação e configuração.                        |
-| `00-índice.md`         | 📌 **Sumário global** da disciplina com todos os capítulos e conteúdos.   |
+| Diretório             | Descrição                                                                |
+| --------------------- | ------------------------------------------------------------------------ |
+| `docs/`               | Documentação teórica dos capítulos organizados e explicados em Markdown. |
+| `src/`                | Códigos-fonte: exemplos, exercícios, desafios e gabaritos por capítulo.  |
+| `atividades/`         | Listas de exercícios e avaliações divididas por trimestre.               |
+| `materiais-de-apoio/` | Guias, imagens, vídeos e links úteis.                                    |
+| `scripts/`            | Scripts auxiliares para instalação e configuração.                       |
+| `00-índice.md`        | 📌 **Sumário global** da disciplina com todos os capítulos e conteúdos.  |
 
 ---
 
@@ -23,7 +23,7 @@ Este projeto tem como objetivo fornecer **conteúdo didático completo e atualiz
 
 Para navegar por todos os capítulos, atividades e temas abordados na UC20, consulte o arquivo abaixo:
 
-🔗 [`00-índice.md`](./00-índice.md)
+🔗 [`00-índice.md`](./docs/README.md)
 
 ---
 
@@ -47,7 +47,7 @@ Para navegar por todos os capítulos, atividades e temas abordados na UC20, cons
 
 ## 🏫 Instituição
 
-📍 *Colégio Victorino*  
+📍 _Colégio Victorino_  
 👨‍🏫 Professor responsável: André Ricardo da Silva  
 ✉️ Contato: [andre.ricardo@colegiovictorino.com.br](mailto:andre.ricardo@colegiovictorino.com.br)
 
@@ -60,4 +60,4 @@ Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
 ---
 
-> *“Programar é ensinar o computador a pensar. Ensinar programação é libertar o pensamento humano.”* 🚀
+> _“Programar é ensinar o computador a pensar. Ensinar programação é libertar o pensamento humano.”_ 🚀
