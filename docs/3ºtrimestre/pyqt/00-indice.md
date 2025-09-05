@@ -1,13 +1,3 @@
-Boa, André! 👌
- Faz todo o sentido:
-
-- No **Módulo 1**, os alunos precisam aprender a trabalhar com **ambiente virtual (`venv`)** e configurar o **VSCode com extensões úteis** (Python, PyQt Integration, Pylance etc.).
-- E realmente, é melhor colocar o conteúdo de **Widgets, múltiplas janelas e personalização (antigo módulo 4)** **antes da Calculadora**. Assim, quando chegarem na Calculadora, já terão mais recursos visuais para deixar o app mais rico.
-
-Aqui vai o **índice atualizado**:
-
-------
-
 # 📘 Curso Básico de PyQt5 – UC20 (30 Aulas / 10 Dias)
 
 👨‍🏫 **Professor:** André Ricardo da Silva
@@ -86,7 +76,3 @@ Aqui vai o **índice atualizado**:
 - 🧮 **Módulo 4** → Calculadora serve como consolidação.
 - 📊 **Módulo 5** → aplicações multimídia e gráficas.
 - 🏁 **Módulo 6** → integração com banco + projeto autoral.
-
-------
-
-👉 Quer que eu avance e monte agora a **grade detalhada (30 aulas em 10 dias, objetivos de cada aula, 40 min cada)** baseada nesse índice?
