@@ -116,7 +116,13 @@ Este método é a **melhor prática** para desenvolvimento Python no Kubuntu 24.
 
    - Atalho: `Ctrl+Shift+P` → *Python: Select Interpreter* → escolha o `venv`.
 
-3. **Criar primeiro app de teste**
+3. **Criar diretório de trabalho**
+
+   ```bash
+    mkdir src && cd src
+  ```
+
+4. **Criar primeiro app de teste**
    Arquivo: `hello.py`
 
    ```python
@@ -131,13 +137,13 @@ Este método é a **melhor prática** para desenvolvimento Python no Kubuntu 24.
    sys.exit(app.exec())
    ```
 
-4. **Executar o app**
+5. **Executar o app**
 
    ```bash
    python hello.py
    ```
 
-5. **Boas práticas extras**
+6. **Boas práticas extras**
 
     - Criar um `requirements.txt`:
 
