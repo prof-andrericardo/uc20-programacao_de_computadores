@@ -1,3 +1,7 @@
+Perfeito, André! Aqui vai a **Aula 1** completa — super detalhada, hierárquica, com ícones, badges, exemplos comentados linha a linha, exercícios, perguntas e desafio. Mantive o foco conceitual e prático para que a turma chegue preparada à Aula 2 (instalação no Kubuntu 24.04 e venv).
+
+------
+
 # 📗 Aula 1 — Introdução ao PyQt5 e às GUIs em Python
 
 ![Python](https://img.shields.io/badge/Python-3.12%2B-3776AB?logo=python&logoColor=white)
